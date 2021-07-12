@@ -4,7 +4,7 @@ $home_subtitle = "Eğlenceli ve sade survival'ın adresi"; // Subtitle of the ho
 $other_subtitle = "Eğlenceli ve sade survival'ın adresi"; // Subtitles on other pages (I recommend displaying your IP here)
 $copyright_footer_text = "kwoxy.batihost.net &copy; | Tüm hakları saklıdır"; // Coypyright notice on the footer
 
-$discord_link = "https://discord.gg/6uWkHPgNeA"; // Link of your discord server
+$discord_link = "https://discord.gg/HqDP7qRWNF"; // Link of your discord server
 
 $about_title = "Sunucumuz hakkında"; // Title on about page
 $gamemodes_title = "Sunucumuzdaki oyunlar"; // Title on gamemodes page

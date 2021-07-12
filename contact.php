@@ -1,3 +1,4 @@
+<?php include'php/settings.php';?>
 <!--
 
 	Template made by: Rick Klaasboer
@@ -75,7 +76,7 @@
 				<div class="callout-box">
 					<div class="callout-content">
 						<h6>Yetki</h6>
-						<p>Eğer yetki alacak iseniz discorddan bize  <a href="https://discord.gg/6uWkHPgNeA">ulaşın</a></p>
+						<p>Eğer yetki alacak iseniz discorddan bize  <a href="<?php echo "$discord_link"; ?>">ulaşın</a></p>
 					</div>
 				</div>
 			</div>
@@ -83,7 +84,7 @@
 				<div class="callout-box">
 					<div class="callout-content">
 						<h6>Diğer </h6>
-						<p>Eğer başka bir sebepten dolayı bize ulaşmak isterseniz <a href="https://discord.gg/6uWkHPgNeA">discord sunucumuza</a>gelin</p>
+						<p>Eğer başka bir sebepten dolayı bize ulaşmak isterseniz <a href="<?php echo "$discord_link"; ?>">discord sunucumuza</a>gelin</p>
 					</div>
 				</div>
 			</div>

@@ -48,7 +48,7 @@
 				<p class="big-col-home">Önemli Bilgiler</p>
 				<div class="big-col-home-text">
 					<h5>Sunucu Kuralları</h5>
-					<p>Kuralları görmek için <a href="rules.php">tıklayın</a>.</p><br>
+					<p>Kuralları görmek için <a href="about.php">tıklayın</a>.</p><br>
 					<h5>İletişim Formu</h5>
 					<p>Eğer bize ulaşmak isterseniz <a href="contact.php">tıklayın</a>.</p><br>
 				</div>
